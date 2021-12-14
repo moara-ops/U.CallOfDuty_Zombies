@@ -46,6 +46,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -93,6 +94,7 @@ crashlytics-build.properties
 **/.idea/**/*.iml
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
+*.idea
 
 *.suo
 *.user
